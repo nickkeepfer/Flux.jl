@@ -31,7 +31,6 @@ AMDGPU = "21141c5a-9bdb-4563-92ae-f87d6854732e"
 AMDGPUExt = "AMDGPU"
 
 [compat]
-julia = "1.6"
 
 [extras]
 AMDGPU = "21141c5a-9bdb-4563-92ae-f87d6854732e"
